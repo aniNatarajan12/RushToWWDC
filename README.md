@@ -7,3 +7,6 @@ The playground is based on a young student who won a scholarship to WWDC. On the
 **The playground uses ARKit so you have to run it on an iPad that is compatible**
 
 **Youtube:** https://www.youtube.com/watch?v=IN3XOPIYWsY
+
+## License
+MIT
