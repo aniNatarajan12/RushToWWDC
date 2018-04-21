@@ -3,7 +3,7 @@
 
 This is my entry to WWDC 18.
 
-**Status Update:** Accepted! 
+**Status Update:** Accepted!
 
 The playground is based on a young student who won a scholarship to WWDC. On the way there, the student is stopped by aliens and has to fight them off in order to get to WWDC in time.
 
